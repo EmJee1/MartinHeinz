@@ -14,12 +14,12 @@ My favorites:
 - [x] SCSS
 
 Learning right now:
-- [] React.js
-- [] MongoDB
-- [] WordPress
+- [ ] React.js
+- [ ] MongoDB
+- [ ] WordPress
 
 Things I want to learn in the future:
-- [] Deno
+- [ ] Deno
 
 ## &#x1f4c8; GitHub Stats
 
