@@ -1,6 +1,10 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey there, and thanks for looking at my profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+## &#x1f4c8; Who is EmJee?
+I'm Mart-Jan, a web developer from the Netherlands and student at Hoornbeeck College Amersfoort.
+If you want to learn more about me, I suggest taking a look at my website over <a href="http://41307.student.hoornbeeckict.nl/">here</a>.
 
 ## &#x1f4c8; GitHub Stats
 
