@@ -15,11 +15,13 @@ My favorites:
 
 Learning right now:
 - [ ] React.js
+- [ ] JavaScript algorithms
 - [ ] MongoDB
 - [ ] WordPress
 
 Things I want to learn in the future:
 - [ ] Deno
+- [ ] JavaScript data structures
 
 ## &#x1f4c8; GitHub Stats
 
