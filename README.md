@@ -12,12 +12,12 @@ My favorites:
 - [x] PHP
 - [x] SQL
 - [x] SCSS
+- [x] WordPress
 
 Learning right now:
 - [ ] React.js
 - [ ] JavaScript algorithms
 - [ ] MongoDB
-- [ ] WordPress
 
 Things I want to learn in the future:
 - [ ] Deno
