@@ -22,6 +22,7 @@ Learning right now:
 Things I want to learn in the future:
 - [ ] Deno
 - [ ] JavaScript data structures
+- [ ] Python
 
 ## &#x1f4c8; GitHub Stats
 
