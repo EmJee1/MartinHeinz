@@ -35,11 +35,11 @@ Things I want to learn in the future:
 </a>
 
 
-<a href="https://github.com/EmJee1/simple-search">
+<a href="https://github.com/EmJee1/SimpleSearch-V2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmJee1&repo=SimpleSearch-V2&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/EmJee1/authentication-api">
+<a href="https://github.com/EmJee1/social_rocket">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmJee1&repo=social_rocket&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
