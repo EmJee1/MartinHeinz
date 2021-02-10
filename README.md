@@ -7,7 +7,9 @@ If you want to learn more about me, I suggest taking a look at my website over <
 ## 🎓 Technologies
 My favorites:
 - [x] JavaScript
+- [x] React.js
 - [x] Node.js
+- [x] MongoDB
 - [x] TypeScript
 - [x] PHP
 - [x] SQL
@@ -15,9 +17,8 @@ My favorites:
 - [x] WordPress
 
 Learning right now:
-- [ ] React.js
 - [ ] JavaScript algorithms
-- [ ] MongoDB
+- [ ] Machine Learning and mathematics
 
 Things I want to learn in the future:
 - [ ] Deno
