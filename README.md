@@ -19,6 +19,7 @@ My favorites:
 Learning right now:
 - [ ] JavaScript algorithms
 - [ ] Machine Learning and mathematics
+- [ ] React Native
 
 Things I want to learn in the future:
 - [ ] Deno
