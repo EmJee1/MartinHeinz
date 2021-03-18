@@ -18,6 +18,7 @@ My favorites:
 
 Learning right now:
 - [ ] JavaScript algorithms
+- [ ] Laravel
 - [ ] Machine Learning and mathematics
 - [ ] React Native
 
