@@ -2,7 +2,7 @@
 
 ## &#x1f4c8; Who is EmJee?
 I'm Mart-Jan, a web developer from the Netherlands and student at Hoornbeeck College Amersfoort.
-If you want to learn more about me, I suggest taking a look at my website over <a href="http://41307.student.hoornbeeckict.nl/">here</a>.
+If you want to learn more about me, I suggest taking a look at my website over <a href="https://www.mart-jan.nl/">here</a>.
 
 ## 🎓 Technologies
 My favorites:
