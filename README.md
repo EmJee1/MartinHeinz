@@ -1,4 +1,4 @@
-# Hey there, and thanks for looking at my profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey there and welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## 👦🏻 Who is EmJee?
 I am a Dutch webdeveloper, specializing in
