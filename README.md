@@ -1,8 +1,13 @@
 # Hey there, and thanks for looking at my profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## 👦🏻 Who is EmJee?
-I'm Mart-Jan, a web developer from the Netherlands and student at Hoornbeeck College Amersfoort.
-If you want to learn more about me, I suggest taking a look at my website over <a href="https://www.mart-jan.nl/">here</a>.
+I am a Dutch webdeveloper, specializing in
+back-end development. I'm always up for learning
+new technologies, and my knowledge is constantly
+evolving. My skills range from front-end tools to
+databases and mobile development.
+
+<a href="https://www.mart-jan.nl/">My website</a>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=3d9feb)
