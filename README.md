@@ -17,9 +17,9 @@ If you want to learn more about me, I suggest taking a look at my website over <
 ![](https://img.shields.io/badge/DataBase-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DataBase-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Tool-Visual%20Studio%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Adobe%20XD-informational?style=flat&logo=Adobe%20XD&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Visual%20Studio%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=eb3d6b)
+![](https://img.shields.io/badge/Tool-Adobe%20XD-informational?style=flat&logo=Adobe%20XD&logoColor=white&color=eb3d6b)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=Docker&logoColor=white&color=eb3d6b)
 
 ## &#x1f4c8; GitHub Stats
 
