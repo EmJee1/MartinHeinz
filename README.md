@@ -4,28 +4,22 @@
 I'm Mart-Jan, a web developer from the Netherlands and student at Hoornbeeck College Amersfoort.
 If you want to learn more about me, I suggest taking a look at my website over <a href="https://www.mart-jan.nl/">here</a>.
 
-## 🎓 Technologies
-My favorites:
-- [x] JavaScript
-- [x] React.js
-- [x] Node.js
-- [x] MongoDB
-- [x] TypeScript
-- [x] PHP
-- [x] SQL
-- [x] SCSS
-- [x] WordPress
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React%20Native-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
 
-Learning right now:
-- [ ] JavaScript algorithms
-- [ ] Laravel
-- [ ] Machine Learning and mathematics
-- [ ] React Native
+![](https://img.shields.io/badge/DataBase-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DataBase-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DataBase-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DataBase-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=2bbc8a)
 
-Things I want to learn in the future:
-- [ ] Deno
-- [ ] JavaScript data structures
-- [ ] Python
+![](https://img.shields.io/badge/Tool-Visual%20Studio%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Adobe%20XD-informational?style=flat&logo=Adobe%20XD&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
