@@ -5,12 +5,12 @@ I'm Mart-Jan, a web developer from the Netherlands and student at Hoornbeeck Col
 If you want to learn more about me, I suggest taking a look at my website over <a href="https://www.mart-jan.nl/">here</a>.
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React%20Native-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=3d9feb)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=3d9feb)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=Node.js&logoColor=white&color=3d9feb)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=3d9feb)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=white&color=3d9feb)
+![](https://img.shields.io/badge/Code-React%20Native-informational?style=flat&logo=React&logoColor=white&color=3d9feb)
 
 ![](https://img.shields.io/badge/DataBase-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DataBase-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
