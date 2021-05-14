@@ -23,6 +23,7 @@ databases and mobile development.
 ![](https://img.shields.io/badge/Tool-Visual%20Studio%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=eb3d6b)
 ![](https://img.shields.io/badge/Tool-Adobe%20XD-informational?style=flat&logo=Adobe%20XD&logoColor=white&color=eb3d6b)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=Docker&logoColor=white&color=eb3d6b)
+![](https://img.shields.io/badge/Package%20Manager-NPM-informational?style=flat&logo=npm&logoColor=white&color=9b59b6)
 
 ## &#x1f4c8; GitHub Stats
 
