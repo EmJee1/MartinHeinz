@@ -40,8 +40,8 @@ databases and mobile development.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmJee1&repo=SimpleSearch-V2&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/EmJee1/express-api-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmJee1&repo=express-api-template&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/EmJee1/fluxxo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmJee1&repo=fluxxo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <!-- links to social media icons -->
