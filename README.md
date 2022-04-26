@@ -19,7 +19,7 @@ databases and mobile development.
 ![](https://img.shields.io/badge/code-Go-informational?style=flat&logo=Go&logoColor=white&color=3d9feb)
 ![](https://img.shields.io/badge/code-React%20Native-informational?style=flat&logo=React&logoColor=white&color=3d9feb)
 ![](https://img.shields.io/badge/database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/database-SQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/database-SQL-informational?style=flat&logo=postgreSQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/cloud-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=9b59b6)
 ![](https://img.shields.io/badge/tool-WebStorm-informational?style=flat&logo=WebStorm&logoColor=white&color=eb3d6b)
 ![](https://img.shields.io/badge/tool-Rider-informational?style=flat&logo=Rider&logoColor=white&color=eb3d6b)
