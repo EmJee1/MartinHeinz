@@ -31,8 +31,15 @@ databases and mobile development.
 
 ## &#x1f4c8; GitHub Stats
 
+<!--
+If stats are broken, replace base-url with another host
+
+List of hosts: https://github.com/PencilNavigator/readme-stats-URL/blob/main/URL.md
+Original: https://github-readme-stats.vercel.app
+-->
+
 <a href="https://github.com/EmJee1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmJee1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://readme-stats.clckblog.space/api/top-langs/?username=EmJee1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/EmJee1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmJee1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
