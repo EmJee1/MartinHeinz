@@ -45,13 +45,12 @@ Original: https://github-readme-stats.vercel.app
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmJee1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
+<a href="https://github.com/EmJee1/the-cocktail-collective">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmJee1&repo=the-cocktail-collective&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 <a href="https://github.com/EmJee1/poweramp-desktop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmJee1&repo=poweramp-desktop&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/EmJee1/fluxxo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmJee1&repo=fluxxo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <!-- links to social media icons -->
