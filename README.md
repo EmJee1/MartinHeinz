@@ -7,27 +7,21 @@ new technologies, and my knowledge is constantly
 evolving. My skills range from front-end tools to
 databases and mobile development.
 
+<!--
 <a href="https://www.mart-jan.nl/">My website</a>
+-->
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/code-React-informational?style=flat&logo=React&logoColor=white&color=3d9feb)
-![](https://img.shields.io/badge/code-Vue-informational?style=flat&logo=Vue.js&logoColor=white&color=3d9feb)
-![](https://img.shields.io/badge/code-Svelte-informational?style=flat&logo=Svelte&logoColor=white&color=3d9feb)
-![](https://img.shields.io/badge/code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=3d9feb)
-![](https://img.shields.io/badge/code-Node-informational?style=flat&logo=Node.js&logoColor=white&color=3d9feb)
-![](https://img.shields.io/badge/code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=3d9feb)
-![](https://img.shields.io/badge/code-Go-informational?style=flat&logo=Go&logoColor=white&color=3d9feb)
-![](https://img.shields.io/badge/code-React%20Native-informational?style=flat&logo=React&logoColor=white&color=3d9feb)
-![](https://img.shields.io/badge/database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/database-SQL-informational?style=flat&logo=postgreSQL&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/cloud-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=9b59b6)
-![](https://img.shields.io/badge/tool-WebStorm-informational?style=flat&logo=WebStorm&logoColor=white&color=eb3d6b)
-![](https://img.shields.io/badge/tool-Rider-informational?style=flat&logo=Rider&logoColor=white&color=eb3d6b)
-![](https://img.shields.io/badge/tool-Visual%20Studio%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=eb3d6b)
-![](https://img.shields.io/badge/tool-Adobe%20XD-informational?style=flat&logo=Adobe%20XD&logoColor=white&color=eb3d6b)
-![](https://img.shields.io/badge/tool-Docker-informational?style=flat&logo=Docker&logoColor=white&color=eb3d6b)
-![](https://img.shields.io/badge/tool-NPM-informational?style=flat&logo=npm&logoColor=white&color=eb3d6b)
-![](https://img.shields.io/badge/tool-Git-informational?style=flat&logo=git&logoColor=white&color=eb3d6b)
+## 🔧 Proficient in
+<code><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></code>
 
 ## &#x1f4c8; GitHub Stats
 
