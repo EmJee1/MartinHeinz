@@ -40,12 +40,12 @@ Fallback: https://readme-stats.clckblog.space
   <img align="center" src="https://readme-stats.clckblog.space/api?username=EmJee1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mart-Jan's GitHub Stats" />
 </a>
 
-<a href="https://github.com/EmJee1/the-cocktail-collective">
-  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=EmJee1&repo=the-cocktail-collective&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/EmJee1/harmony-station">
+  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=EmJee1&repo=harmony-station&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/EmJee1/poweramp-desktop">
-  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=EmJee1&repo=poweramp-desktop&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/EmJee1/setup-meteor">
+  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=EmJee1&repo=setup-meteor&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <!-- links to social media icons -->
